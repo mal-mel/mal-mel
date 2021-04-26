@@ -1,0 +1,23 @@
+footer {
+    margin-top: 10%;
+}
+
+.social-link {
+    margin-right: 1rem;
+    color: #777777 !important;
+}
+
+.social-link:hover {
+    color: inherit !important;
+}
+
+.copyrights {
+    margin-right: 10px;
+    font-weight: bold;
+    margin-top: 1rem;
+    color: #777777 !important;
+}
+
+.copyrights:hover {
+    color: inherit !important;
+}
