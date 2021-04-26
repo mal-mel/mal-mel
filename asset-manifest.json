@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mal-mel.github.io/static/css/main.e9557b72.chunk.css",
+    "main.js": "/mal-mel.github.io/static/js/main.d422598a.chunk.js",
+    "main.js.map": "/mal-mel.github.io/static/js/main.d422598a.chunk.js.map",
+    "runtime-main.js": "/mal-mel.github.io/static/js/runtime-main.0600a104.js",
+    "runtime-main.js.map": "/mal-mel.github.io/static/js/runtime-main.0600a104.js.map",
+    "static/js/2.d0b93f6f.chunk.js": "/mal-mel.github.io/static/js/2.d0b93f6f.chunk.js",
+    "static/js/2.d0b93f6f.chunk.js.map": "/mal-mel.github.io/static/js/2.d0b93f6f.chunk.js.map",
+    "index.html": "/mal-mel.github.io/index.html",
+    "static/css/main.e9557b72.chunk.css.map": "/mal-mel.github.io/static/css/main.e9557b72.chunk.css.map",
+    "static/js/2.d0b93f6f.chunk.js.LICENSE.txt": "/mal-mel.github.io/static/js/2.d0b93f6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0600a104.js",
+    "static/js/2.d0b93f6f.chunk.js",
+    "static/css/main.e9557b72.chunk.css",
+    "static/js/main.d422598a.chunk.js"
+  ]
+}
