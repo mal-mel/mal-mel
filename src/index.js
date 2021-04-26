@@ -12,7 +12,7 @@ import ApiService from './services/api-service';
 
 import store from './store';
 
-``
+
 const apiService = new ApiService();
 
 ReactDOM.render(
